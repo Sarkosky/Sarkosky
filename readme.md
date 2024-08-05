@@ -1,5 +1,5 @@
-# 💫 About Me:
-<h2> Hey! Welcome to my world! </h2><br>
+# 💫 Hey! Welcome to my world!
+<br><br>
 
 
 # 💻 FRONTEND
