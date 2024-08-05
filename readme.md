@@ -1,5 +1,5 @@
 # 💫 About Me:
-<h3> Hey! Welcome to my world </h3><br>
+<h3> Hey! Welcome to my world! </h3><br>
 
 
 # 💻 FRONTEND
@@ -7,7 +7,7 @@
 
 # 📊 BACKEND
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="">
     <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
   </a>
 </p>
