@@ -1,5 +1,4 @@
-# 💫 Hey! Welcome to my world!
-<br>
+<h2 align="center">Welcome to my world </h2>
 
 
 # 💻 FRONTEND
