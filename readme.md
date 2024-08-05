@@ -26,49 +26,7 @@
 </p>
 
 # ⚡ DATABASES
-
-<table>
-    <tr>
-        <tr>
-            <ul>
-                <li>PostgreSQL</li>
-                <li>MySQL</li>
-                <li>MongoDB</li>
-            </ul>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=postgres"/></td>
-            <td><img src="https://skillicons.dev/icons?i=mysql"/></td>
-        </tr>
-        <tr>
-            <td><img src="https://skillicons.dev/icons?i=mongodb"/></td>
-        </tr>
-    </tr>
-    <tr>
-        
-    </tr>
-</table>
-
-<p align="center">
-    <div>
-        <div>
-            <ul>
-                <li>PostgreSQL</li>
-                <li>MySQL</li>
-                <li>MongoDB</li>
-            </ul>
-        </div>
-        <div>
-            <a href="">
-                <ul>
-                    <li> <img src="https://skillicons.dev/icons?i=postgres"/> </li>
-                    <li> <img src="https://skillicons.dev/icons?i=mysql"/> </li>
-                    <li> <img src="https://skillicons.dev/icons?i=mongodb"/> </li>
-                </ul>
-            </a>
-        </div>
-    </div>
-</p>
+![PostreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 # 🎨 EDITION
 
