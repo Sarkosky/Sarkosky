@@ -7,12 +7,49 @@
 
 # 📊 BACKEND
 <p align="center">
+    <div>
+        <div>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+        
+        <div>
+        
+        </div>
+    </div>
     <a href="">
         <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
     </a>
 </p>
 
 # ⚡ DATABASES
+
+<p align="center">
+    <div>
+        <div>
+            <ul>
+                <li>PostgreSQL</li>
+                <li>MySQL</li>
+                <li>MicrosoftSQLServer</li>
+                <li>MongoDB</li>
+            </ul>
+        </div>
+        
+        <div>
+            <ul>
+                <li></li>
+                <li></li>
+                <li></li>
+            </ul>
+        </div>
+    </div>
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
+</p>
 
 # 🎨 EDITION
 
