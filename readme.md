@@ -12,8 +12,8 @@
 
 ![PostreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 <ul>
-  <li>Pentaho Data Integration</li>
-  <li>Power BI</li>
+  <li> <h3>Pentaho Data Integration </h3></li>
+  <li> <h3>Power BI </h3></li>
 </ul>
 
 
