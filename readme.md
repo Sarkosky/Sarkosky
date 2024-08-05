@@ -33,22 +33,20 @@
             <ul>
                 <li>PostgreSQL</li>
                 <li>MySQL</li>
-                <li>MicrosoftSQLServer</li>
                 <li>MongoDB</li>
             </ul>
         </div>
-        
         <div>
-            <ul>
-                <li></li>
-                <li></li>
-                <li></li>
-            </ul>
+            <a href="">
+                <ul>
+                    <li> <img src="https://skillicons.dev/icons?i=postgres"/> </li>
+                    <li> <img src="https://skillicons.dev/icons?i=mysql"/> </li>
+                    <li> <img src="https://skillicons.dev/icons?i=mongodb"/> </li>
+                </ul>
+            </a>
         </div>
     </div>
-    <a href="">
-        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
-    </a>
+        <img src="https://skillicons.dev/icons?i=postgres" />
 </p>
 
 # 🎨 EDITION
