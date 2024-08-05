@@ -27,27 +27,47 @@
 
 # ⚡ DATABASES
 
-<p align="center">
-    <div>
-        <div>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Two Columns</title>
+    <style>
+        .container {
+            display: flex;
+        }
+        .column {
+            flex: 1;
+            padding: 10px;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            margin: 10px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="column">
             <ul>
                 <li>PostgreSQL</li>
                 <li>MySQL</li>
                 <li>MongoDB</li>
             </ul>
         </div>
-        <div>
-            <a href="">
+        <div class="column">
+            <a href="#">
                 <ul>
-                    <li> <img src="https://skillicons.dev/icons?i=postgres"/> </li>
-                    <li> <img src="https://skillicons.dev/icons?i=mysql"/> </li>
-                    <li> <img src="https://skillicons.dev/icons?i=mongodb"/> </li>
+                    <li> <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/> </li>
+                    <li> <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/> </li>
+                    <li> <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/> </li>
                 </ul>
             </a>
         </div>
     </div>
-        <img src="https://skillicons.dev/icons?i=postgres" />
-</p>
+</body>
 
 # 🎨 EDITION
 
