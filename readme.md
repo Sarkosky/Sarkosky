@@ -35,6 +35,15 @@
             <li>MongoDB</li>
         </ul>
     </tr>
+    <tr>
+        <tr>
+            <td><img src="https://skillicons.dev/icons?i=postgres"/></td>
+            <td><img src="https://skillicons.dev/icons?i=mysql"/></td>
+        </tr>
+        <tr>
+            <td><img src="https://skillicons.dev/icons?i=mongodb"/></td>
+        </tr>
+    </tr>
 </table>
 
 <p align="center">
