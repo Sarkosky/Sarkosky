@@ -27,6 +27,16 @@
 
 # ⚡ DATABASES
 
+<table>
+    <tr>
+        <ul>
+            <li>PostgreSQL</li>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+        </ul>
+    </tr>
+</table>
+
 <p align="center">
     <div>
         <div>
