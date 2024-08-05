@@ -22,6 +22,10 @@
 
 # 🚀 EXTRAS
 ![Sketchup](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+<p align="center">
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
+  <h3 align="center">|Sketchup|</h3>
+</p>
 
 
 
