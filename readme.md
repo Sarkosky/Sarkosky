@@ -22,8 +22,8 @@
 
 # 🚀 EXTRAS
 <p align="center">
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/>
-  <h3 align="center">|Sketchup|</h3>
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white"/><h3 align="center">|Sketchup|</h3>
+  
 </p>
 
 
