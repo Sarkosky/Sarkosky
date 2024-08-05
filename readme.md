@@ -15,6 +15,7 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <h3 align="center">|Pentaho Data Integration| |Power BI|</h3>
 </p>
+<br><br>
 
 
 # 🎨 EDITION & DESIGN
@@ -24,6 +25,7 @@
   <img src="https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white"/>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </p>
+<br><br>
 
 
 # 🚀 EXTRAS
@@ -32,6 +34,7 @@
   <img src="https://skillicons.dev/icons?i=sketchup" />
   
 </p>
+<br><br>
 
 
 
