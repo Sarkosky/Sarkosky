@@ -7,7 +7,9 @@
 
 # 📊 BACKEND
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <a href="">
+        <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    </a>
 </p>
 
 # ⚡ DATABASES
