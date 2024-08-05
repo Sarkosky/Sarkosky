@@ -29,13 +29,13 @@
 
 <table>
     <tr>
-        <ul>
-            <li>PostgreSQL</li>
-            <li>MySQL</li>
-            <li>MongoDB</li>
-        </ul>
-    </tr>
-    <tr>
+        <tr>
+            <ul>
+                <li>PostgreSQL</li>
+                <li>MySQL</li>
+                <li>MongoDB</li>
+            </ul>
+        </tr>
         <tr>
             <td><img src="https://skillicons.dev/icons?i=postgres"/></td>
             <td><img src="https://skillicons.dev/icons?i=mysql"/></td>
@@ -43,6 +43,9 @@
         <tr>
             <td><img src="https://skillicons.dev/icons?i=mongodb"/></td>
         </tr>
+    </tr>
+    <tr>
+        
     </tr>
 </table>
 
